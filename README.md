@@ -1,5 +1,4 @@
-# Historic_houses_to_resell_in_Seattle
-Finding the best historic houses to resell in Seattle
+## Finding the best historic houses to resell in King County
 
 The objetive of this challenge is finding the best historic houses for one investor who wants them in the best neighborhoods of Seattle, King County, and to resell them within a year with high profits. He is willing to renovate the house.
 
